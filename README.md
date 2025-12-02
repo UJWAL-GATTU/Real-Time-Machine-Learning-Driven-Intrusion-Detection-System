@@ -127,8 +127,8 @@ python new_predictions.py
 
 🚨 Output Files
 
-detected_attacks.csv   → All detected malicious flows
-alerts.log             → Human-readable alert messages
+- detected_attacks.csv   → All detected malicious flows
+- alerts.log             → Human-readable alert messages
 
 ---
 
