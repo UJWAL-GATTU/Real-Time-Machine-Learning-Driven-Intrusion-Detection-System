@@ -123,11 +123,14 @@ python new_predictions.py
 | Recall    | 91%   |
 | ROC-AUC   | 0.985 |
 
+---
 
 🚨 Output Files
 
 detected_attacks.csv   → All detected malicious flows
 alerts.log             → Human-readable alert messages
+
+---
 
 🚀 Future Enhancements
 
