@@ -149,7 +149,7 @@ Matching live features with training schema
 
 Dataset imbalance impacting unsupervised learning
 
-Future Improvements
+# Future Improvements
 
 Web dashboard for monitoring
 
