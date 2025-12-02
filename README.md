@@ -69,3 +69,7 @@ The system integrates offline ML training using the UNSW-NB15 dataset and real-t
 - Provides anomaly scores
 
 ### Saved Model Files
+
+- scaler.joblib
+- pca.joblib
+- random_forest.joblib
