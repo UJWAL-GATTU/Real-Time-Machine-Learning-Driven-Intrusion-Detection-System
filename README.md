@@ -132,8 +132,14 @@ alerts.log             → Human-readable alert messages
 
 🚀 Future Enhancements
 
+🚀 Future Enhancements
+
 Web dashboard for real-time alerts
+
 Deep learning (Autoencoder / LSTM)
+
 Kafka-based high-speed streaming
+
 Payload analysis and NLP-based IDS
+
 Integration with SIEM platforms
